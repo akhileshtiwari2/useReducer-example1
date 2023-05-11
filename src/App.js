@@ -24,6 +24,7 @@ return (
 	<button onClick={() => dispatch("add")}>
 		add
 	</button>
+	 
 	<button onClick={() => dispatch("subtract")}>
 		subtract
 	</button>
